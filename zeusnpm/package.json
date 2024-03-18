@@ -1,5 +1,5 @@
 {
-  "name": "zeusnpm",
+  "name": "@cryptofinderid/zeusnpm",
   "version": "1.1.4",
   "scripts": {
     "dev": "next dev",
